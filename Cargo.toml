@@ -147,7 +147,7 @@ homepage = "https://github.com/andeya/lrcall"
 repository = "https://github.com/andeya/lrcall"
 readme = "README.md"
 categories = ["asynchronous", "network-programming"]
-keywords = ["rpc", "network", "server", "api", "microservices", "servicemesh"]
+keywords = ["rpc", "network", "server", "api", "microservices"]
 
 [workspace.dependencies]
 
